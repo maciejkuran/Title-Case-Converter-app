@@ -57,9 +57,8 @@ console.log(convertString('The beginning of the road')); //The Beginning of the 
 ```
 
 ## UI App Design
-<p align="center">
-<img src="https://user-images.githubusercontent.com/103118542/172850533-1716c6d8-da50-4436-8f6e-614144dd2830.jpg">
-</p>
+![Title Case converter](https://user-images.githubusercontent.com/103118542/172852988-7d892489-e6b7-42ef-8f93-0c7b75ab1266.jpg)
+
 
 ## Functionality
 - convert function
