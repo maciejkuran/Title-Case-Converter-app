@@ -24,7 +24,7 @@ So what does this application do? Please check the example below.
 INPUT: The man of the forest.
 OUTPUT: The Man of the Forest.
 
-## Javascript concepts
+## JavaScript concepts
 To write this application, I am going to use string and array methods. First of all, we need to convert an input value to lowerCase(). Then I split() a string, which means I convert it to an array.
 
 I loop through this array, checking if the 'specialWords' array includes() any specific 'word' from our array (our input string that I converted). If it does, this specific 'word' will be toLowerCase(), if it doesn't, the first character of each word will be converted to upperCase(). Then I convert back the 'output' array to a string with the join() method.
