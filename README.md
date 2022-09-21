@@ -9,7 +9,7 @@ Title case is a style that is used for the titles of articles, books, movies, so
 ➡️ [Live app](https://maciejkuran.com/title-case-converter)
 ➡️ [Case study](https://maciejkuran.com/blog/title-case-converter-function)
 
-> This application is part of my website. The attached `scss` style sheet may be incomplete, as some styles are inherited from my site's `main.scss` sheet.
+> This application is part of my website. The attached `scss` style sheet may be incomplete, as some styles are inherited from my site's `main.scss` sheet. For all styles please visit [maciejkuran.com repository](https://github.com/maciejkuran/maciejkuran.com).
 
 <p align="center">
       <img width="1000" src="/img/title case converter.png">
